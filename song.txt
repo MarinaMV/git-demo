@@ -4,10 +4,6 @@ You and I, you and I
 We're like diamonds in the sky
 You're a shooting star I see
 A vision of ecstasy
-When you hold me, I'm alive
-We're like diamonds in the sky
-Shine bright like a diamond
-Shine bright like a diamond
-I knew that we'd become one right away
-Oh, right away
 
+
+git status
